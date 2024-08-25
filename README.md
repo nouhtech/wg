@@ -31,7 +31,7 @@ cd wg
 ### 3. Make the Script Executable
 Ensure the script has executable permissions:
 ```bash
-chmod +x vpn.sh
+chmod +x wireguard-manager.sh
 ```
 
 ## ⚙️ Usage
@@ -39,7 +39,7 @@ chmod +x vpn.sh
 ### 1. Run the Script
 Execute the script using:
 ```bash
-sudo ./vpn.sh
+sudo ./wireguard-manager.sh
 ```
 
 ### 2. Choose an Option
@@ -67,11 +67,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🌐 Social Media
-Follow me on X (Twitter): [@nouhtech](https://x.com/nouhtech)
-```
-
-### Notes:
-1. **Code Blocks**: I've enclosed code snippets within triple backticks to keep them well-formatted.
-2. **Menus and Outputs**: I've included a sample menu output in a code block to ensure proper alignment.
